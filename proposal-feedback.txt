@@ -1,0 +1,35 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Dave Huang
+Code Review Assistant project
+==============================
+
+Proposal Document:
+------------------
+   Nice work on the document.  You make a good, although brief, description
+   so that the reader gets the idea, and you follow that with a real-world
+   reason for the application.  The second paragraph provides even more for
+   the justification
+
+   I agree that this tool will be useful for CS students, but having been
+   in the 'industry' and having been through many code reviews, I think that
+   the real usefulness of this tool could be in the greater software process
+   'out there'....  An excellent project!
+
+Proposal Presentation:
+----------------------
+   Nice work on the presentation.  I think this will be a very useful tool
+   both for yourself, in your job, and for LMU CS students as well.  I think
+   it's great that you are looking at something to improve software coding
+   for consistency.  Your slides were kinda minimal ~ consider 'spicing them
+   up' a bit with some graphics images.  You did a good job of talking to
+   the audence not the slides, but try to focus on looking people in the eye
+   so that you connect when you talk.  Good job overall!
+
+
+============================================================================
+your score:  5% out of 5% which is an A-plus
+
+Great job on this presentation and proposal and great start to the semester!
