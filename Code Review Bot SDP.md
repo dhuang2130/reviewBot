@@ -38,3 +38,5 @@ The project is structured based on major functions and responsibilities:
 Code Analysis Module: Responsible for parsing code comments and structure.
 Feedback Generation Module: Responsible for providing insights and recommendations.
 Integration and Testing: Responsible for integrating modules and ensuring quality.
+
+![Gantt](Gantt.png)
