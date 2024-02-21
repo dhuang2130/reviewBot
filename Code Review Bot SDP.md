@@ -39,4 +39,15 @@ Code Analysis Module: Responsible for parsing code comments and structure.
 Feedback Generation Module: Responsible for providing insights and recommendations.
 Integration and Testing: Responsible for integrating modules and ensuring quality.
 
+## 4.4.1 Gantt
 ![Gantt](Gantt.png)
+
+## 4.4.2
+
+| Task        | Member      | Software Resources          |
+| ----------- | ----------- | ----------------------------|
+| Setup       | Me          | Text editor                 |
+| Prototype   | Me          | Python Interpretor/IDE      |
+| Code        | Me          | Coding of the bot           |
+| Feedback    | Me          | Feedback from users         |
+| Testing     | Me          | Testing                     |
