@@ -51,3 +51,6 @@ Integration and Testing: Responsible for integrating modules and ensuring qualit
 | Code        | Me          | Coding of the bot           |
 | Feedback    | Me          | Feedback from users         |
 | Testing     | Me          | Testing                     |
+
+UPDATE
+All seems to go according to plan, looking to add good visuals and design the UI. Going according towards the Gantt Chart, just looking to test some more on other pieces of code. 
