@@ -32,3 +32,11 @@ your score:  9.5% out of 10% which is an A
 
 Nice job!  Make the changes for the second submission as suggested above and
 you'll get the full 10% on this document submission.
+
+=============================================================================
+SECOND EVALUATION:
+
+your score:  9.5% out of 10% which is an A
+
+Changes made in the introduction per the comments.  Good job!  Still can't
+see the left side of the Gantt chart, though....
